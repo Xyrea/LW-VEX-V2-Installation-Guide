@@ -1,5 +1,5 @@
 # V-External V2 Installation Guide
-> If you need any help please send me a DM or create a modmail thread.
+> If you need any help please send me a DM or create a github issue.
 
 ## <a id="installation"></a>⚙️ 〢 Installation
 
