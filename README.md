@@ -1,4 +1,4 @@
-# V-External Installation Guide
+# V-External V2 Installation Guide
 > If you need any help please send me a DM or create a modmail thread.
 
 ## <a id="installation"></a>⚙️ 〢 Installation
